@@ -160,4 +160,8 @@ footer {
   .contact-list a {
     padding: 5px;
   }
+  .education {
+    background-image: none;
+    background-color: rgb(233, 177, 35);
+  }
 }
