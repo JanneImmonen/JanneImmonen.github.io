@@ -65,6 +65,17 @@ header {
   background: #2f3061;
   color: #f7fff7;
 }
+.content-wrap .btn {
+  color: #f7fff7;
+  background: #12a15a;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.content-wrap .btn:hover {
+  background: rgba(27, 138, 77, 0.8);
+}
 
 /* Projects
 ------------------------------------*/
